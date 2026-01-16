@@ -1,0 +1,30 @@
+Task 4 : Hashtag & Content Strategy (16 Marks) 
+
+First, I have taken Post ID and Hashtags Used from the cleaned data.
+
+Then I separated multiple hashtags so that one hashtag is in one row.
+
+After that, I created a pivot table using Hashtags and Post ID.
+
+From this pivot table, the most frequently used hashtag is #PepsiCoRefresh.
+
+Next, I took Post ID, Likes, Comments, and Hashtags Used from cleaned data.
+
+Again, I separated hashtags so that each hashtag has its own row.
+
+Then I created another pivot table using Hashtag, Likes, and Comments.
+From this pivot table, Average performance of posts are 
+#BetterWithPepsi and #SmoothLikeNitroPepsi.
+
+Next, I took Platform, Content Type, Likes, and Comments from cleaned data. Then I created a pivot table using Content Type and Platform .
+From this comparison, Carousels perform better than Images and Videos across platforms.
+
+Using the same pivot table, I compared performance platform-wise.
+
+From the analysis I recommend 
+Facebook – Carousels and Reels perform better
+Instagram – Images and Reels perform better
+Twitter – Text and Carousels perform better
+YouTube – Text and Story content perform better
+
+So, content should be prioritized based on platform performance.

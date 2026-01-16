@@ -1,0 +1,24 @@
+Task 1 – Data Cleaning & Preparation (Presentation Script)
+
+For Task 1, I worked with the raw dataset provided.
+
+First, I reviewed the entire dataset to understand the structure and identify issues.
+I noticed inconsistent naming, mixed data types, missing values, and unstructured hashtags.
+
+Then, I cleaned the data by:
+
+standardizing platform names
+
+correcting content type labels
+
+fixing numeric columns like likes, comments, impressions, and clicks
+
+After that, I structured the hashtag column to make it consistent and usable for analysis.
+I also removed unnecessary spaces and formatting issues.
+
+Once cleaning was completed, I saved the dataset as cleaned data for further tasks.
+
+From this task, I learned the importance of data quality before analysis.
+I understood that even small inconsistencies can affect results.
+
+This task helped me build a strong foundation for all further analysis.

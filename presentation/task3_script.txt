@@ -1,0 +1,22 @@
+Task 3: Social Media Platform analysis 
+
+here I have analysed dataset 
+
+I have created pivot table to figure out the highest engagement rate , Instagram generates the highest engagement rate 
+
+
+I have subtracted unfollowers from the new follower to get the net follower growth , based on the net follower growth I have created another pivot table this determines the highest growth rates of followers across different platform , Instagram is the highest growth rate
+
+I have create a scatter chart to represent the visualisation of adspends and engagement rate across all platforms 
+
+
+my advice Based on:
+- high engagement on Instagram
+- strong growth on Instagram
+- and consistent performance from Facebook
+
+I suggest focusing on 1–2 core platforms: Instagram and Facebook.
+
+These platforms give better results compared to others.
+So instead of spreading across all platforms,
+it is better to concentrate on Instagram and Facebook.

@@ -1,0 +1,24 @@
+I used the Posts sheet from dataset for Engagement Analysis
+
+First, I started calculation process for engagement rate for each post to do the implementation 
+
+here I performed the sum of Likes , Shares and Comments are total engagement 
+then total engagement divided by impressions to find out the engagement rate  
+
+Then I created a pivot table to get average engagement per platform.
+YouTube and Facebook came out on top.
+Instagram was the lowest.
+
+Next, I sorted engagement rate and pulled the top 10 posts.
+Most high performers were Carousels and Reels from Twitter and YouTube.
+
+Then I create another a pivot table for
+Total Likes, Shares, and Comments by Content Type and Platform.
+This showed Carousel and Video content gets the strongest response.
+
+After that I moved clicks and hashtags to new sheet and separated hashtags where multiple hashtags are there , again I created a pivot table for
+Average Clicks by Hashtag.
+
+Here , ranking  #PepsiCoRefresh to highlight the top-performing hashtags.
+
+ranking is numbered followed by #ThirstyForMore and #LiveForNow.

@@ -1,0 +1,26 @@
+Task 6: Follower Retention & Audience Loyalty (16 Marks) 
+
+First, I created a new column for Net Follower Growth.
+
+Then I created a pivot table using
+Week_Start_Date, Platform, and Net Follower Growth.
+This was saved as weekly_growth_pivot.
+
+Using this pivot table, I created a line chart
+to visualize weekly follower growth trends by platform.
+
+based on the same pivot table , it states October is the highest net follower gain. 
+
+Next, I performed 3-week moving average analysis
+using continuous net follower growth values.
+
+This was performed in moving_average_analysis.
+
+Then I created a line chart using this data
+to smooth out the follower growth trend.
+
+After that 
+I have created a scatter plot to visualize the relationship to Determine the correlation between ad spend and follower growth
+Then I performed basic correlation calculation 
+
+This shows how follower growth changes with ad spend.

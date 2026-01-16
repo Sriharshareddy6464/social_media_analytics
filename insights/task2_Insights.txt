@@ -1,0 +1,17 @@
+Engagement Analysis – Key Insights
+
+Platform-level analysis shows that YouTube and Facebook lead in average engagement, while Instagram records the lowest engagement rate. This indicates that long-form and structured content performs better than casual feed content in this dataset.
+
+When reviewing individual post performance, the top 10 highest engaging posts are dominated by Carousels and Reels, primarily from Twitter and YouTube. This confirms that visually rich and short-form content formats generate stronger interaction.
+
+Content type comparison across platforms shows that Carousel and Video content consistently drive higher likes, shares, and comments. Static formats contribute less to overall engagement.
+
+Hashtag-level analysis highlights #PepsiCoRefresh as the most effective hashtag, followed by #ThirstyForMore and #LiveForNow. These hashtags generate higher average clicks, indicating stronger audience intent and interest.
+
+Overall, engagement is being driven by:
+
+Visual content formats (Carousel, Video, Reel)
+
+Platforms that support discovery (YouTube, Twitter)
+
+High-performing branded hashtags (#PepsiCoRefresh)

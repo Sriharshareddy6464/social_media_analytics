@@ -1,0 +1,17 @@
+Follower Retention & Audience Loyalty – Key Insights (Task 6)
+
+Follower growth trend analysis shows clear variation across time and platforms. The line chart visualization highlights periods of accelerated growth, indicating spikes in audience acquisition during specific time frames.
+
+Among all periods, October records the highest net follower gain, making it the strongest month for audience growth. This suggests that content, campaigns, or platform activity during this period were particularly effective in attracting new followers.
+
+Moving average analysis smooths short-term fluctuations and reveals the underlying growth trend. The smoothed line shows a generally positive direction, confirming sustained audience growth rather than isolated spikes.
+
+The relationship between ad spend and follower growth indicates a positive correlation. As ad spend increases, follower growth also tends to rise. However, the scatter plot shows that growth is not perfectly linear, suggesting that content quality and platform strategy also play a role alongside spending.
+
+Overall, the data indicates that:
+
+Audience growth is not uniform across time
+
+Certain periods, especially October, drive significantly higher acquisition
+
+Increased ad spend supports follower growth, but is not the only factor influencing loyalty and retention

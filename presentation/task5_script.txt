@@ -1,0 +1,26 @@
+Task 5 : Campaign Effectiveness (16 Marks) 
+
+I worked with cleaned_post_data, cleaned_engagement, and cleaned_campaign_data.
+
+First, I extracted Campaign Name, Likes, Impressions, and Clicks into campaign_performance.
+
+Then I created a pivot table named campaign_metric_summary
+using Campaign Name with total and average of Likes, Impressions, and Clicks.
+
+This gives total and average performance for each campaign.
+
+Next, I added a new column campaign_phase in cleaned post data to mark posts as Before Campaign or During Campaign.
+
+Then I created a pivot table using Likes, Clicks, Impressions, and Campaign Phase shows campaign_uplift
+
+This shows the engagement uplift during the campaign compared to before.
+
+
+After that, I performed ROI analysis.
+Here, I calculated total engagement divided by ad spend for each campaign.
+From this analysis, DailyWellness campaign has the highest ROI.
+
+as we have already performed unfollower is subtracted from new followers to find out what is the net followers growth . then 
+I have created a pivot table using Campaign Name and Net Follower Growth.
+
+From this pivot table , DailyWellness campaign has the strongest follower growth impact.

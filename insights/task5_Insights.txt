@@ -1,0 +1,17 @@
+Campaign Effectiveness – Key Insights (Task 5)
+
+Campaign-level performance analysis shows clear differences in reach and interaction across campaigns. Total and average impressions, likes, and clicks indicate that some campaigns consistently outperform others in overall visibility and engagement.
+
+Comparison of engagement before and during campaign periods reveals a noticeable uplift in engagement during active campaign phases. This confirms that campaigns are effectively driving increased user interaction compared to baseline periods.
+
+ROI analysis, based on total engagement versus ad spend, identifies DailyWellness as the highest performing campaign in terms of return on investment. This indicates that DailyWellness achieved stronger engagement efficiency relative to budget compared to other campaigns.
+
+Follower growth impact analysis further supports this result. DailyWellness also shows the strongest net follower growth, indicating that the campaign not only drove engagement but also contributed significantly to audience expansion.
+
+Overall, the data suggests that:
+
+Campaigns do increase engagement during active periods
+
+Not all campaigns deliver equal value for spend
+
+DailyWellness stands out as the most effective campaign in both engagement return and follower acquisition

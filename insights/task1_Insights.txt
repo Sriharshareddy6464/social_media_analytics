@@ -1,0 +1,26 @@
+Data Preparation & Quality Assessment – Key Insights (Task 1)
+
+Initial review of the raw dataset revealed multiple data quality issues, including inconsistent naming conventions, mixed data types, missing values, and unstructured hashtag formats. These inconsistencies had the potential to distort analysis and reduce accuracy of results.
+
+After standardization and cleaning, the dataset achieved consistent formatting across:
+
+platform names
+
+content types
+
+numeric fields such as likes, comments, impressions, and clicks
+
+Hashtag data was structured to ensure uniform representation, enabling reliable hashtag-level analysis. Duplicate entries and irregular values were addressed to improve data integrity.
+
+The cleaned dataset is now fully structured, normalized, and analysis-ready.
+This ensures that all subsequent engagement, platform, campaign, and follower analyses are based on reliable and consistent data.
+
+Overall, the data preparation phase significantly improved:
+
+accuracy of calculations
+
+consistency across categories
+
+and trustworthiness of insights derived from the dataset
+
+This foundation was critical for valid engagement, campaign, and loyalty analysis.
